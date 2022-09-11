@@ -31,7 +31,14 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-\screenshots
+![stats card desktop](https://user-images.githubusercontent.com/112169932/189518464-3e2f29ac-977c-43be-a1ee-7d424ad53150.PNG)
+
+![stats card tablet](https://user-images.githubusercontent.com/112169932/189518506-048397c5-eba8-489b-9470-631eb5a9d7d3.PNG)
+
+
+![stats card mobile](https://user-images.githubusercontent.com/112169932/189518522-05ba4222-c05f-4cd2-a176-0ed68f7c8cee.PNG)
+
+
 stats card desktop.PNG
 stats card mobile.PNG
 stats card tablet.PNG
