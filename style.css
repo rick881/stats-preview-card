@@ -112,16 +112,6 @@ h1 {
 }
 
 
-.attribution {  
-    color: var(--white);
-    position: absolute;
-    bottom: 0;
-}
-.attribution a {
-    color: hsl(228, 45%, 44%); 
-}
-
-
 /* ========== MOBILE DEVICES ============ */
 @media screen and (max-width: 599px) {
     .card {
